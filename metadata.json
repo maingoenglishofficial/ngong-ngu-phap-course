@@ -1,0 +1,6 @@
+{
+  "name": "2 Năm Ngữ Pháp",
+  "description": "Hệ thống giới thiệu và quản lý học tập thông minh cho khóa học 2 Năm Ngữ Pháp, tích hợp lộ trình chi tiết, theo dõi tiến độ cá nhân hóa và xếp thứ tự xếp hạng cộng đồng học viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
